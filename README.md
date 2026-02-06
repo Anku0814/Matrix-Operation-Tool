@@ -1,1 +1,3 @@
-# Matrix-Operation-Tool
+# Matrix Operations using NumPy
+
+Run matrix_tool.py
